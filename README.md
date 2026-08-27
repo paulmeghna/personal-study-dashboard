@@ -21,6 +21,7 @@ A Streamlit web app to track your study sessions, manage goals, and analyze your
 ## Installation
 
 1. Clone this repository:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-study-dashboard.git
+git clone https://github.com/paulmeghna/personal-study-dashboard.git
 cd personal-study-dashboard
